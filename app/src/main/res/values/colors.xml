@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_pri">#007bff</color>
+    <color name="blue_sec">#1068c7</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red_custom">#FD586B</color>
+    <color name="orange_custom">#FEAA48</color>
+    <color name="blue_custom">#36DEED</color>
+    <color name="abu_abu">#515B60</color>
+    <color name="abu_muda">#828282</color>
+    <color name="black_custom">#263238</color>
+</resources>
